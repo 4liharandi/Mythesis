@@ -2,6 +2,7 @@ from torchvision.transforms import Normalize
 import skimage.io
 from skimage.transform import resize
 import glob
+from AdvProgram import *
 from sklearn.metrics import roc_auc_score
 from torchvision import transforms
 import matplotlib.pyplot as plt
