@@ -6,3 +6,5 @@ Part 1: Includes Pattern Noise and Blury Type features extraction. The two-part 
 Part2: The second part, which is related to the generalizability method, consists of two codes. One section includes the limited training of the trained network with the ImageNet dataset (as pretrained net) and the other part includes the limited training of the trained network with the deep Facebook deepfake database (as pretrained net).
 
 All code is in Pytorch, except for the Blur feature extraction section, which is in MATLAB.
+ 
+ For more information about thesis and what is these codes you can access to Full thesis(FA) and preview of thesis(EN) 
