@@ -1,1 +1,1 @@
-# Mythesis
+# My MSc. Thesis
