@@ -7,4 +7,4 @@ Part2: The second part, which is related to the generalizability method, consist
 
 All code is in Pytorch, except for the Blur feature extraction section, which is in MATLAB.
  
- For more information about thesis and what is these codes you can access to Full thesis(FA) and preview of thesis(EN) 
+ For more information about thesis and what is these codes you can access to Full thesis(FA) and summary of thesis(EN) (Full english pdf is being prepared)
